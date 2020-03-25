@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04d843fd9ea8cb6485325a75a240a3e3",
+    "revision": "95c0fd17e6680f99520f92fbc5cda8bc",
     "url": "/spock-paper-scissors/index.html"
   },
   {
-    "revision": "811d2209d7839acb9711",
+    "revision": "36b51330fdb9bc189c56",
     "url": "/spock-paper-scissors/static/css/main.d3e9406b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spock-paper-scissors/static/js/2.e7d1af57.chunk.js"
   },
   {
-    "revision": "811d2209d7839acb9711",
-    "url": "/spock-paper-scissors/static/js/main.eb500b79.chunk.js"
+    "revision": "36b51330fdb9bc189c56",
+    "url": "/spock-paper-scissors/static/js/main.ba8eefae.chunk.js"
   },
   {
     "revision": "4b8b43d28af5904453d5",

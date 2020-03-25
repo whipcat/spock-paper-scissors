@@ -108,9 +108,9 @@ const GameProviderContext = ({ children }) => {
         message = "it's a tie";
       } else {
         if (
-          (hand === NAMES.ROCK && handSpock === NAMES.SCISCCORS) ||
+          (hand === NAMES.ROCK && handSpock === NAMES.SCISSORS) ||
           (hand === NAMES.PAPER && handSpock === NAMES.ROCK) ||
-          (hand === NAMES.SCISCCORS && handSpock === NAMES.PAPER)
+          (hand === NAMES.SCISSORS && handSpock === NAMES.PAPER)
         ) {
           winner = _p1;
           message = "You won!";
