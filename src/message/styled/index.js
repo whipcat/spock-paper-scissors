@@ -13,7 +13,7 @@ const MessageContainer = Styled.div`
   &.show {
     bottom: 50%;
     transform: translateX(-50%) scale(1);
-    transition-delay: .3s * 3;
+    transition-delay: 0.9s;
   }
 `;
 

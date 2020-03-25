@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spock-paper-scissors/static/css/main.599a4e38.chunk.css",
-    "main.js": "/spock-paper-scissors/static/js/main.83966a32.chunk.js",
-    "main.js.map": "/spock-paper-scissors/static/js/main.83966a32.chunk.js.map",
+    "main.js": "/spock-paper-scissors/static/js/main.d0f6a713.chunk.js",
+    "main.js.map": "/spock-paper-scissors/static/js/main.d0f6a713.chunk.js.map",
     "runtime~main.js": "/spock-paper-scissors/static/js/runtime~main.faf9e5c6.js",
     "runtime~main.js.map": "/spock-paper-scissors/static/js/runtime~main.faf9e5c6.js.map",
     "static/js/2.e7d1af57.chunk.js": "/spock-paper-scissors/static/js/2.e7d1af57.chunk.js",
     "static/js/2.e7d1af57.chunk.js.map": "/spock-paper-scissors/static/js/2.e7d1af57.chunk.js.map",
     "index.html": "/spock-paper-scissors/index.html",
-    "precache-manifest.10acdd530b0283ef0128361ae6849677.js": "/spock-paper-scissors/precache-manifest.10acdd530b0283ef0128361ae6849677.js",
+    "precache-manifest.0691bd9fd944a9af9bbed32fd7c75224.js": "/spock-paper-scissors/precache-manifest.0691bd9fd944a9af9bbed32fd7c75224.js",
     "service-worker.js": "/spock-paper-scissors/service-worker.js",
     "static/css/main.599a4e38.chunk.css.map": "/spock-paper-scissors/static/css/main.599a4e38.chunk.css.map"
   }
