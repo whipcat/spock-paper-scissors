@@ -24,6 +24,7 @@ body {
   margin: 0 auto;
   text-align: center;
   padding: 0 40px;
+  margin-bottom: 40px;
 
   h1 {
     color: white;
@@ -74,6 +75,7 @@ article {
   margin: 0 auto;
   perspective: 800;
   -webkit-perspective: 800;
+  margin-bottom: 40px;
 
   &.flip-me .flipper {
     transform: rotateY(180deg);

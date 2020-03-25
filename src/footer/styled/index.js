@@ -23,6 +23,7 @@ const Score = Styled.h1`
   font-weight: bold;
   color: #f3f4f5;
   margin-top: 0!important;
+  margin-bottom: 0!important;
 `;
 
 export { Container, Player, Score };
