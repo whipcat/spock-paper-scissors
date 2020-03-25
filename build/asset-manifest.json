@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spock-paper-scissors/static/css/main.d3e9406b.chunk.css",
+    "main.js": "/spock-paper-scissors/static/js/main.eb500b79.chunk.js",
+    "main.js.map": "/spock-paper-scissors/static/js/main.eb500b79.chunk.js.map",
+    "runtime~main.js": "/spock-paper-scissors/static/js/runtime~main.faf9e5c6.js",
+    "runtime~main.js.map": "/spock-paper-scissors/static/js/runtime~main.faf9e5c6.js.map",
+    "static/js/2.e7d1af57.chunk.js": "/spock-paper-scissors/static/js/2.e7d1af57.chunk.js",
+    "static/js/2.e7d1af57.chunk.js.map": "/spock-paper-scissors/static/js/2.e7d1af57.chunk.js.map",
+    "index.html": "/spock-paper-scissors/index.html",
+    "precache-manifest.4cc556db8e437912ccba4d65f352cd11.js": "/spock-paper-scissors/precache-manifest.4cc556db8e437912ccba4d65f352cd11.js",
+    "service-worker.js": "/spock-paper-scissors/service-worker.js",
+    "static/css/main.d3e9406b.chunk.css.map": "/spock-paper-scissors/static/css/main.d3e9406b.chunk.css.map"
+  }
+}
