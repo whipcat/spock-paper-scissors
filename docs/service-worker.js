@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spock-paper-scissors/precache-manifest.f72aba76f66e3a4e7778127a47c703ee.js"
+  "/spock-paper-scissors/precache-manifest.9aa8f0d5324190f2a26dae8248df1055.js"
 );
 
 self.addEventListener('message', (event) => {

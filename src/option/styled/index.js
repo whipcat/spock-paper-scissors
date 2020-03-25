@@ -24,7 +24,7 @@ const Chip = Styled.div`
   flex-flow: row;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 0.2em 0.35em -0.15em rgba(35, 41, 44, 0.5);
+  box-shadow: rgba(35, 41, 44, 0.5) 0px 0.1em 0.25em -0.15em;
 
   &:hover {
     cursor: pointer;
